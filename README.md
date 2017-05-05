@@ -1,10 +1,10 @@
 # Rumor-Detection
-*Use anaconda for running these notebooks (Python 3).
-*Paths are hardcoded so set working directory accordingly
-*Packages Needed:
-  *NLTK
-  *SKLEARN
-  *PYDOTPLUS
+Use anaconda for running these notebooks (Python 3).
+* Paths are hardcoded so set working directory accordingly
+* Packages Needed:
+  * NLTK
+  * SKLEARN
+  * PYDOTPLUS
  For printing decision trees:
  You will need graphviz which can be downloaded from http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.38.zip for Windows
  
